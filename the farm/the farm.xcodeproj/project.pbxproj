@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		842A2BBA2A20EB6D006EBAEC /* HistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 842A2BB92A20EB6D006EBAEC /* HistoryTableViewController.swift */; };
 		84512D3C2A05347F00447517 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84512D3B2A05347F00447517 /* AppDelegate.swift */; };
 		84512D3E2A05347F00447517 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84512D3D2A05347F00447517 /* SceneDelegate.swift */; };
 		84512D432A05347F00447517 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84512D412A05347F00447517 /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		842A2BB92A20EB6D006EBAEC /* HistoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryTableViewController.swift; sourceTree = "<group>"; };
 		84512D382A05347F00447517 /* the farm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "the farm.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84512D3B2A05347F00447517 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84512D3D2A05347F00447517 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				84C8A1032A0F9B9100EE48A7 /* models */,
 				846924992A0B8FD600DA9080 /* Base.lproj */,
 				84512D492A05348100447517 /* Info.plist */,
+				842A2BB92A20EB6D006EBAEC /* HistoryTableViewController.swift */,
 				84512D3B2A05347F00447517 /* AppDelegate.swift */,
 				84D04E3D2A11248300F88660 /* ShopCollectionViewController.swift */,
 				84512D4F2A0534F200447517 /* CircularProgressBar.swift */,
@@ -170,6 +173,7 @@
 				84D04E3E2A11248300F88660 /* ShopCollectionViewController.swift in Sources */,
 				84512D3C2A05347F00447517 /* AppDelegate.swift in Sources */,
 				84512D3E2A05347F00447517 /* SceneDelegate.swift in Sources */,
+				842A2BBA2A20EB6D006EBAEC /* HistoryTableViewController.swift in Sources */,
 				84512D502A0534F200447517 /* CircularProgressBar.swift in Sources */,
 				8469196A2A0D100D00826492 /* ModalViewController.swift in Sources */,
 				846919682A0D089900826492 /* AnimalPicView.swift in Sources */,
